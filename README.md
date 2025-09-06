@@ -112,4 +112,4 @@ Histórico de pacientes vacinados:
 
 ## 🧾 Licença
 
-Defina uma licença para o repositório (ex.: **MIT**). Se nada for definido, o padrão do G
+Sem licença.
