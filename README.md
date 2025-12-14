@@ -110,6 +110,9 @@ Histórico de pacientes vacinados:
 * **Fila com `pop(0)`** pela simplicidade (adequada a pequenos volumes neste contexto didático).
 * **Histórico como pilha** para facilitar a visualização do último vacinado primeiro.
 
+## 📹 Demonstração do Projeto
+Um vídeo demonstrando o funcionamento do sistema pode ser acessado [aqui](https://youtu.be/EyJR0fo8o1Q).
+
 ## 🧾 Licença
 
 Sem licença.
